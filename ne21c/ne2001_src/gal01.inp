@@ -1,5 +1,5 @@
 gal01.inp = input parameters for large-scale components of NE2001 30 June '02
-1 1 1 1 1 1 1 wg1 wg2 wga wggc wglism wgcN, wgvN
+1 1 1 1 0 0 0 wg1 wg2 wga wggc wglism wgcN, wgvN
 n1h1:   0.033
 h1:     0.97
 A1:     17.5
